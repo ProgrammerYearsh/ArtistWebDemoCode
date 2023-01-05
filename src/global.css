@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Eczar:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=NATS:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Volkhov:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-work-sans: "Work Sans";
+  --font-eczar: Eczar;
+  --font-poppins: Poppins;
+  --font-roboto: Roboto;
+  --font-dm-sans: "DM Sans";
+  --font-maven-pro: "Maven Pro";
+  --font-nats: NATS;
+  --font-manrope: Manrope;
+  --font-open-sans: "Open Sans";
+  --font-montserrat: Montserrat;
+  --font-volkhov: Volkhov;
+
+  /* font sizes */
+  --font-size-8xs: 12px;
+  --font-size-7xs: 14px;
+  --font-size-6xs: 15px;
+  --font-size-5xs: 16px;
+  --font-size-4xs: 17px;
+  --font-size-3xs: 18px;
+  --font-size-2xs: 20px;
+  --font-size-xs: 21px;
+  --font-size-sm: 22px;
+  --font-size-base: 24px;
+  --font-size-lg: 25px;
+  --font-size-xl: 28px;
+  --font-size-2xl: 32px;
+  --font-size-3xl: 36px;
+  --font-size-4xl: 40px;
+  --font-size-5xl: 44px;
+  --font-size-6xl: 50px;
+  --font-size-7xl: 64px;
+
+  /* Colors */
+  --white2: #fff;
+  --color-black: #000;
+  --color-gray-100: #dedede;
+  --color-gray-200: #959595;
+  --text-color1: #686d77;
+  --text-clr: #5e6282;
+  --color-gray-500: #594f43;
+  --text-color: #39425d;
+  --color-gray-700: #302f2f;
+  --st1: #212832;
+  --text-heading-color: #1e1d4c;
+  --st: #181e4b;
+  --rd: #14183e;
+  --color-gray-1200: #1b1a19;
+  --color-gray-1300: #131212;
+  --color-gray-1400: rgba(0, 0, 0, 0.87);
+  --color-gray-1500: rgba(0, 0, 0, 0.54);
+  --color-gray-1600: rgba(255, 255, 255, 0.36);
+  --color-violet: #b172ff;
+  --yellow: #f1a501;
+  --color-green: #5cdb59;
+  --color-beige: #ffecb3;
+
+  /* Gaps */
+  --gap-0: 0px;
+  --gap-6xs: 4px;
+  --gap-5xs: 5px;
+  --gap-4xs: 10px;
+  --gap-3xs: 15px;
+  --gap-2xs: 16px;
+  --gap-xs: 17px;
+  --gap-sm: 20px;
+  --gap-md: 24px;
+  --gap-lg: 32px;
+  --gap-xl: 34px;
+  --gap-2xl: 50px;
+  --gap-3xl: 58px;
+  --gap-4xl: 70px;
+  --gap-5xl: 90px;
+  --gap-6xl: 100px;
+
+  /* Paddings */
+  --padding-7xs: 5px;
+  --padding-6xs: 8px;
+  --padding-5xs: 10px;
+  --padding-4xs: 14px;
+  --padding-3xs: 16px;
+  --padding-2xs: 20px;
+  --padding-xs: 24px;
+  --padding-sm: 25px;
+  --padding-md: 30px;
+  --padding-lg: 31px;
+  --padding-xl: 40px;
+  --padding-2xl: 48px;
+  --padding-3xl: 50px;
+  --padding-4xl: 100px;
+  --padding-5xl: 150px;
+  --padding-6xl: 250px;
+
+  /* border radiuses */
+  --br-2xs: 4px;
+  --br-xs: 5px;
+  --br-sm: 10px;
+  --br-md: 20px;
+  --br-lg: 30px;
+  --br-xl: 40px;
+  --br-2xl: 1000px;
+}
